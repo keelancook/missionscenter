@@ -3,23 +3,22 @@ layout: page
 title: About
 
 ---
+This website serves as the online repository for the Sending Pathways initiative. Pathways is a collection of resources and a training process for local churches to develop their own sent ones for an array of Great Commission tasks. 
+
+## Resource Hub
+One this site, you will find a collection of materials for local chruches looking to implement sending processes within their church. These materials include reading lists, potential equipping cohort materials, and explainers for developing a sending culture within a church. This resource hub is continually in development, and we hope to continue adding valuable tools as we develop them.
+
+## Training Process
+In addition to a resource hub, our desire is that the site itself will become a tool for training both churches and potential sent ones from their churches. Our goal is to provide a central location for associations, churches, and individuals to point those they are equipping to walk through a training process.
 
 
-![Family Photo](https://i.imgur.com/5fkSqIP.jpg)
-
-Hey there! You've stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](https://keelancook.com). This site is really just an experiment. I'm attempting to learn more about building my own websites with [Jekyll](https://jekyllrb.com). 
-
-My name is Keelan Cook. I'm married to Meredith and we have two little kids (one of which is still on the way). We live in Houston, TX where I serve with the [Union Baptist Association](https://ubahouston.org) as an associate director.
+## The Union Baptist Assocaition
+Sending Pathways is an initiative of the Union Baptist Association, and was designed specifically for our churches. However, our desire has always been for our work with this issue to be a resource to other associations and church networks. To that end, we've developed this site with minimal branding as a resource to the church in North America. 
 
 ## Connect
-You can find me on a handful or social media platforms:
-* [Twitter](https://twitter.com/keelancook)
-* [Facebook](https://facebook.com/keelancook)
-* [LinkedIn](https://linkedin.com/in/keelancook)
+If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at the following places.
 
-
-Thanks for reading!
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjQxMTI0NiwyMDYwNTc0MjM5LDE4Nz
-k4MDc3MiwtMzA5ODUyODU0LC0xNjkxODc2MzYxXX0=
--->
+You can find us here:
+* [UBA Website](https://ubahouston.org)
+* [Twitter](https://twitter.com/ubahouston)
+* [Facebook](https://facebook.com/ubahouston)
