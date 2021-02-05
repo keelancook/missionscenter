@@ -1,8 +1,8 @@
 # Setup
-title:               Keelan Cook
-tagline:             'Missiologist'
+title:               Sending Pathways
+tagline:             From your church to the ends of the earth.
 description:         '<img src="/public/Keelan Seal.png" class="center"> The personal website for Keelan Cook. Look here for a current copy of my CV, a list of ongoing projects, and the occasional family and life update.'
-url:                 https://keelancook.ml
+url:                 https://keelancook.ml/pathways
 baseurl:             ''
 paginate:            5
 permalink:           pretty
