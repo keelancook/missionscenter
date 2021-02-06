@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: doc
 title: Pathways » IMB
 author: Keelan Cook
+created: 2020-12-01
 
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
