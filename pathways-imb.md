@@ -1,5 +1,5 @@
 ---
-layout: doc
+layout: page
 title: Pathways » IMB
 author: Keelan Cook
 created: 2020-12-01
