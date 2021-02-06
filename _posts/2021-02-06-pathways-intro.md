@@ -1,5 +1,5 @@
 ---
-title: Welcome to Pathways!
+title: Welcome to Pathways
 author: Keelan Cook
 type: post
 created: 2021-02-06
