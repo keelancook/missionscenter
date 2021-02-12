@@ -73,7 +73,7 @@ Semester 2 shifts to the focus toward communal discple-making. In this semester,
 ---
 
 ## Developing an Advocacy Team
-Each Pathways participate will be required to develop an advocacy team at the beginning of the first semester. An advocacy team is a vital piece of good missionary care and support. By requiring participants to work on this at the beginning of the proceess, they will be able to equip their advocacy team to provide support while they are being equipping to go. This ensures that they will have a team of people, mostly from within their own church, who are holding the rope for them at home after they go. You can find an [[Advocacy Team Overview]] here.
+Each Pathways participate will be required to develop an advocacy team at the beginning of the first semester. An advocacy team is a vital piece of good missionary care and support. By requiring participants to work on this at the beginning of the proceess, they will be able to equip their advocacy team to provide support while they are being equipping to go. This ensures that they will have a team of people, mostly from within their own church, who are holding the rope for them at home after they go. You can find an [Advocacy Team Overview](advocacy-team-overview.md) here.
 
 ## Additional Reading
 If you're interested in further resources on missionary sending or the Pathways cohort process, check out the additional reading lists below to see books, courses, and other content for missionary development. 
