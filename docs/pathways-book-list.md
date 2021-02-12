@@ -14,6 +14,7 @@ date: 2020-12-20
 *   DeYoung, Kevin, and Greg Gilbert. _What Is the Mission of the Church?: Making Sense of Social Justice, Shalom, and the Great Commission_. Crossway, 2011.
 *   Greear, J. D. _Gaining By Losing: Why the Future Belongs to Churches That Send_. Grand Rapids: Zondervan, 2015.
 *   Hesselgrave, David J. _Paradigms in Conflict: 10 Key Questions in Christian Missions Today_. Grand Rapids: Kregel Publications, 2005.
+*   Hildreth, Scott. *Together on God's Mission*. Nashville: B&H Acdemic, 2018.
 *   Piper, John. _Let the Nations Be Glad!: The Supremacy of God in Missions_. Baker Academic, 2010.
 *   Stott, John. _Christian Mission in the Modern World_. Downers Grove: InterVarsity Press, 2015.
 
