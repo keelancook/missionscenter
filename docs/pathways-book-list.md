@@ -19,16 +19,17 @@ date: 2020-12-20
 
 
 ### Cultural Acquisition and Cross-Cultural Communication
-*   Elmer, Duane. _Cross-Cultural Conflict: Building Relationships for Effective Ministry_. Unknown edition. IVP Academic, 1993.
-*   ———. _Cross-Cultural Connections: Stepping Out and Fitting In Around the World_. 53187th edition. IVP Academic, 2002.
-*   ———. _Cross-Cultural Servanthood: Serving the World in Christlike Humility_. 2007 or Later Printing edition. IVP Books, 2006.
-*   Lanier, Sarah A. _Foreign to Familiar: A Guide to Understanding Hot - And Cold - Climate Cultures_. 1st edition. Mc Dougal Publishing Company, 2000.
+*   Elmer, Duane. _Cross-Cultural Conflict: Building Relationships for Effective Ministry_. IVP Academic, 1993.
+*   ———. _Cross-Cultural Connections: Stepping Out and Fitting In Around the World_. IVP Academic, 2002.
+*   ———. _Cross-Cultural Servanthood: Serving the World in Christlike Humility_. IVP Books, 2006.
+*   Lanier, Sarah A. _Foreign to Familiar: A Guide to Understanding Hot - And Cold - Climate Cultures_. Mc Dougal Publishing Company, 2000.
+*   McCrary, Larry. *First 30 Daze*. Louisville: Upstream, 2016.
 
 
 ### Evangelism
-*   Green, Michael. _Evangelism in the Early Church_. Revised ed. edition. Grand Rapids, Mich: Eerdmans, 2004.
-*   Newman, Randy, and Lee Strobel. _Questioning Evangelism: Engaging People’s Hearts the Way Jesus Did_. 2 edition. Kregel Publications, 2017.
-*   Packer, J. I., and Mark Dever. _Evangelism and the Sovereignty of God_. Americanized edition. IVP Books, 2012.
+*   Green, Michael. _Evangelism in the Early Church_. Grand Rapids, Mich: Eerdmans, 2004.
+*   Newman, Randy, and Lee Strobel. _Questioning Evangelism: Engaging People’s Hearts the Way Jesus Did_. Kregel Publications, 2017.
+*   Packer, J. I., and Mark Dever. _Evangelism and the Sovereignty of God_. IVP Books, 2012.
 
 
 ### Church Planting & Replanting
@@ -38,7 +39,7 @@ date: 2020-12-20
 
 
 ### Disciple-making
-*   Coleman, Robert E., and Billy Graham. _The Master Plan of Evangelism_. 2 edition. Revell, 2010.
+*   Coleman, Robert E., and Billy Graham. _The Master Plan of Evangelism_. Revell, 2010.
 
 
 ### Diaspora Missions
@@ -61,6 +62,13 @@ date: 2020-12-20
 * [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like) by Nathan Sloan
 * [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
 
+### The Missionary Task
+* [The Missionary Task: Entering with Exit in Mind](https://www.imb.org/2018/10/16/missionary-task-entry/) by D. Ray Davis
+* [The Missionary Task: Effective Gospel Proclamation](https://www.imb.org/2018/10/23/the-missionary-task-part-2-evangelism/) by D. Ray Davis
+* [The Missionary Task: Making Disciples Who Make Disciples](https://www.imb.org/2018/10/29/missionary-task-disciple-making/) by D. Ray Davis
+* [The Missionary Task: Forming a Healthy Church](https://www.imb.org/2018/11/06/missionary-task-healthy-church/) by D. Ray Davis
+* [The Missionary Task: Training Faithful Leaders](https://www.imb.org/2018/11/13/missionary-task-training-faithful-leaders/) by D. Ray Davis
+* [The Missionary Task: Working Yourself out of a Job](https://www.imb.org/2018/11/20/missionary-task-out-of-job/) by D. Ray Davis
 ### Evangelism
 * [Evangelism? That's Just Not My Gift](https://www.theupstreamcollective.org/blog/evangelism-not-my-gift) by D. Scott Hildreth
 * [How to Share the Gospel: A Quick Word on Narratives and Themes](https://keelancook.com/2016/08/22/how-to-share-the-gospel-a-quick-word-on-narratives-and-themes/) by Keelan Cook
@@ -76,4 +84,3 @@ date: 2020-12-20
 * [How Do You Measure Discipleship?](https://keelancook.com/2017/03/06/how-do-you-measure-discipleship/) by Keelan Cook
 
 ### Cross-cultural Missions
-???
