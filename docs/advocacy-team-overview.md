@@ -6,6 +6,8 @@ created: 2021-02-12
 
 ---
 
+![Advocacy Banner](https://i.imgur.com/JkzxoQ7.png)
+
 Advocacy Teams are the most tangible expression of _our church’s _commitment to support our missionaries who are serving in cross-cultural environments. The team is centered around one team leader and can be made up of 4-8 individuals who provide on-going care and support. They serve as a primary link between the church as a whole and the missionary.
 
 Simply put, an advocate team is a group of people who deeply love and care for their missionary. They communicate, pray for and stay connected to their missionary on a regular basis. Because of these strong personal relationships, the missionary can be open and honest, allowing his or her team to see needs and share successes and defeats.
