@@ -9,4 +9,6 @@ created: 2021-02-06
 
 This site is the equipping hub for the Sending Pathways initiative. It is a tool to help local churches identify, equip, send, and support their own sent ones for an array of Great Commission tasks.
 
-[![](http://img.youtube.com/vi/97cA_INlzgk/0.jpg)](http://www.youtube.com/watch?v=97cA_INlzgk "Pathways Introduction Video")
+<div class="video-responsive">
+<iframe width="560"   height="315" src="http://www.youtube.com/watch?v=97cA_INlzgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
