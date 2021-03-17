@@ -2,8 +2,8 @@
 layout: doc
 title: Pathways » IMB Instructional Guide
 author: Keelan Cook
-date: 2020-12-15
-
+date: 2020-12-15T00:00:00-06:00
+modified: 2021-03-16T19:18:24-05:00
 ---
 
 ![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)
@@ -82,12 +82,3 @@ If you're interested in further resources on missionary sending or the Pathways 
 * [Online Videos & Courses](http://VIDEOS-COURSES-LIST)
 
 ---
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTYzNDU5NiwtMTAzMDQ2MDEwMywtMT
-kxMjQ5MzM2NSwtMTk5NTk3ODg2NywtMTIyNDc4NDQ4MCw0OTc2
-MzM5NzQsLTMyNjgyMDU5Miw5NTA2OTQwNDQsNTk3NDM5Mzg4LC
-0xNDMzMjU3NzEwLC0yMDk1NjI2NDA0LDIwOTcyMzM2NTUsMTk0
-MzE5ODEwNywtMTQwOTY0MTM0OCw0NjM5Mjc1NjQsLTM3MzQxMD
-YwLDE0ODQ1MDU5NTcsLTg0NjcwODczLC0yMTM3NDI3NTUyLC0x
-NjU3OTEzMDEwXX0=
--->
