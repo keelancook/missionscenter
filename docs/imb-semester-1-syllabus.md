@@ -21,7 +21,7 @@ After completing this course, students should be able to:
 ## Required Reading and Resources
 1. *Foundations*. International Mission Board, 2018. ([PDF Download](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf))
 2. *Knowing the IMB*. International Mission Board, 2021. ([Online Course](https://imb.pathwright.com/library/knowing-imb/199579/about/))
-3. *Deepen Discipleship*. International Mission Board, 2019. ([PDF Download](https://www.imb.org/wp-content/uploads/2019/10/Deepen-Discipleship-v2.pdf) | [Online Course](https://imb.pathwright.com/library/deepen-discipleship-055f43a0/102497/about/))
+3. *Deepen Discipleship*. International Mission Board, 2019. ([PDF Download](https://www.imb.org/wp-content/uploads/2019/10/Deepen-Discipleship-v2.pdf)|[Online Course](https://imb.pathwright.com/library/deepen-discipleship-055f43a0/102497/about/))
 
 **If you have completed any of the required books for this course, please let us know.*
 
