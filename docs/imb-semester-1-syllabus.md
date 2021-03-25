@@ -23,8 +23,6 @@ After completing this course, students should be able to:
 2. *Knowing the IMB*. International Mission Board, 2021. ([Online Course](https://imb.pathwright.com/library/knowing-imb/199579/about/))
 3. *Deepen Discipleship*. International Mission Board, 2019. ([PDF Download](https://www.imb.org/wp-content/uploads/2019/10/Deepen-Discipleship-v2.pdf) or [Online Course](https://imb.pathwright.com/library/deepen-discipleship-055f43a0/102497/about/))
 
-**If you have completed any of the required books for this course, please let us know.*
-
 ## Participation Requirements
 Cohort particpants are expected to come to all meetings having completed assignments and participated in the necessary activites outside of gathered meetings. Participants are encouraged to remember that the cohort process has two aspects. While students are learning for their own formation, they are also being assessed by their church leaders and those facilitating the cohort in order to provide counsel and recommendation for their potential missionary service. For these leaders to make these kinds of decisions about recommendation with integrity, it takes spending time with the candidates in preparation.
 
