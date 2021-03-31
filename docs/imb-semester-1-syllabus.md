@@ -46,3 +46,13 @@ For those participatns who are actively applying for the IMB, all application pa
 
 ---
 # Semester One Schedule
+|Meeting        |Assignments|
+|---------------|-----------|
+|Abide 1        |           |
+|Abide 2        |           |
+|Entry 1        |           |
+|Entry 2        |           |
+|Evangelism 1   |           |
+|Evangelism 2   |           |
+|Discipleship 1 |           |
+|Discipleship 2 |           |
