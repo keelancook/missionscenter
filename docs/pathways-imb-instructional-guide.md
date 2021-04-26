@@ -83,3 +83,5 @@ If you're interested in further resources on missionary sending or the Pathways 
 * [Online Videos & Courses](http://VIDEOS-COURSES-LIST)
 
 ---
+
+[Return to Main Menu](https://pathways.ml/pathways-imb/)

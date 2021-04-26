@@ -85,3 +85,6 @@ date: 2020-12-20
 * [How Do You Measure Discipleship?](https://keelancook.com/2017/03/06/how-do-you-measure-discipleship/) by Keelan Cook
 
 ### Cross-cultural Missions
+
+---
+[Return to Main Menu](https://pathways.ml/pathways-imb/)

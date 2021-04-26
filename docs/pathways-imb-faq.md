@@ -18,7 +18,6 @@ No. There are many reasons why someone would consider being a part of one of the
 ### Does this cohort garuantee acceptance by the IMB for missionary service.
 No. `GIVE MORE DETAIL HERE`
 
+---
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5ODk4MTk3LDE5MzAwNzk2NTFdfQ==
--->
+[Return to Main Menu](https://pathways.ml/pathways-imb/)

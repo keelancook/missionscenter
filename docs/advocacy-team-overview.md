@@ -122,4 +122,6 @@ What are some specific things Advocacy Teams can do to care for their missionari
 
 `This Document was developed and adapted from resources by Sojourn Community Church and Austin Stone Community Church.`
 
-<a class="button" href="https://pathways.ml/pathways-imb/" style="text-decoration: none;" target="_blank">Return to Main Menu</a>
+---
+
+[Return to Main Menu](https://pathways.ml/pathways-imb/)
