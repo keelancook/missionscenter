@@ -12,7 +12,8 @@ Pathways » IMB is a cooperative equipping cohort facilitated by churches in the
 <!--more-->
 ## Pathways » IMB Contents
 * [Introduction](/docs/pathways-imb-intro/)
-* [Cohort Instructional Guide](/docs/pathways-imb-instructional-guide/).
+* [Cohort Instructional Guide](/docs/pathways-imb-instructional-guide/)
 * [Sample Cohort Syllabus](/docs/imb-semester-1-syllabus/)
 * [Advocacy Team Overview](/docs/advocacy-team-overview)
-* [Frequently Asked Questions](/docs/pathways-imb-faq/) 
+* [Frequently Asked Questions](/docs/pathways-imb-faq/)
+

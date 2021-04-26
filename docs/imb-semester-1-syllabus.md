@@ -5,6 +5,7 @@ created: 2021-03-23
 layout: doc
 
 ---
+![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
 
 ## Cohort Description
 This cohort is designed to provide the competencies and spiritual formation necessary to serve faithfully as witnesses to the gospel in a cross-cultural setting among the least reached peoples and places.
@@ -12,7 +13,7 @@ This cohort is designed to provide the competencies and spiritual formation nece
 ## Student Learning Objectives
 After completing this course, students should be able to:
 * Explain the IMB and its sending process for Southern Baptist churches.
-* Examine and integrate the core missionary task into a philosophy of mission and disciple making.
+* Examine and integrate the core missionary task into a philosophy of mission and disciple-making.
 * Develop a plan to cultivate a vibrant spiritual life through disciplines of spiritual formation.
 * Comprehend and evaluate means of entry for cross-cultural evangelism and missions.
 * Assess and implement different culturally appropriate methods of evangelism in a cross-cultural setting.
