@@ -121,3 +121,5 @@ What are some specific things Advocacy Teams can do to care for their missionari
 *   After they return, pray with them about their host country, including their friends/contacts in the host country. 
 
 `This Document was developed and adapted from resources by Sojourn Community Church and Austin Stone Community Church.`
+
+<a class="button button-primary" href="https://pathways.ml/pathways-imb/" style="text-decoration: none;" target="_blank">Return to Main Menu</a>

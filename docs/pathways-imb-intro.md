@@ -30,3 +30,4 @@ The application process considers each of the above-mentioned qualifications: ca
 ## Additional Questions
 
 If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on the [Pathways » IMB FAQ](/docs/pathways-imb-faq/) page.
+
