@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pathways » IMB
-author: Keelan Cook
+title: Prayer Walk
+author: Center for Great Commission Studies
 created: 2020-12-01
 
 ---
