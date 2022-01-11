@@ -5,9 +5,7 @@ type: post
 created: 2022-01-12
 
 ---
-This site will be our online home for all things Global Missions Week. 
-
-Pathways » IMB is a cooperative equipping cohort facilitated by churches in the Union Baptist Association in partnership with the International Mission Board (IMB).  Our hope is to streamline the process of onboarding new missionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
+*This site will be our online home for all things Global Missions Week. We need to place a compelling one-paragraph description of Global Missions Week here. I also want to add any marketing graphic that communications may produce for the event here.*
 ## Schedule of Events
 
 ### Tuesday

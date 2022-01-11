@@ -16,7 +16,7 @@ Schedule a **GO meeting** today, and let us help you get there.
 
 The **Center for Great Commission Studies** exists to help you discern how and where you will make disciples from Atlanta to Zimbabwe and everywhere in between. Whether it's international missions, planting or replanting a church, serving faithfully in pastoral ministry, or another way of fulfilling the Great Commission, our job is to help you put your feet on the path.
 
-That's why we're offering you a **free cup of coffee** to sit down with one of the directors in the CGCS, so that we can meet you and help
+That's why we're offering you a **free cup of coffee** to sit down with one of the directors in the CGCS so that we can meet you and help
 you begin finding your pathway to the Great Commission. To schedule your GO Meeting and grab that free cup of joe, use the QR code below and fill out the form online.
 
 ![GO Meeting QR Code](public/go-meeting-qr.png)

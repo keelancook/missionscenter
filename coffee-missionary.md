@@ -1,9 +1,8 @@
 ---
-title: Coffee with a Mmissionary
+title: Coffee with a Missionary
 author: Center for Great Commission Studies
 type: page
 created: 2021-02-06
-
 ---
 
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
