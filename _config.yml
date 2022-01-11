@@ -2,7 +2,7 @@
 title:               Sending Pathways
 tagline:             From your church to the ends of the earth.
 description:         '<img src="/public/pathways2.png" class="center">'
-url:                 https://pathways.ml
+url:                 https://keelancook.com/pathways-test1
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -12,7 +12,7 @@ excerpt_separator:   <!--more-->
 author:
   name:              Keelan Cook
   url:               https://twitter.com/keelancook
-  email:             keelan@ubahouston.org
+  email:             kcook@sebts.edu
 
 # Gems
 plugins:
