@@ -3,7 +3,7 @@ title:               Global Missions Week
 tagline:             Southeastern Baptist Theological Seminary
 description:         '<img src="/public/cgcs-logo-blue.png" class="center">'
 url:                 https://missionsweek.tk
-baseurl:             'missionsweek.tk'
+baseurl:             ''
 paginate:            1
 permalink:           pretty
 excerpt_separator:   <!--more-->
