@@ -11,7 +11,7 @@ created: 2022-01-12
 ### Tuesday
 * [GMW Chapel 1: J.D. Greear](https://www.sebts.edu/news-and-events/chapel/default.aspx)
 * [GMW Kick-off Lunch](/gmw-kickoff-lunch/)
-* [Global Missions Townhall: A Missionary Panel](/dmissions-townhall/)
+* [Global Missions Townhall: A Missionary Panel](/missions-townhall/)
 
 ### Wednesday
 * [Campus-wide Prayer Walk](/prayer-walk/)
