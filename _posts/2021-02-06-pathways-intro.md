@@ -5,5 +5,5 @@ type: post
 created: 2022-01-12
 
 ---
-This site will be our online home for all things Global Missions Week.
+This site will be our online home for all things Global Missions Week. 
 
