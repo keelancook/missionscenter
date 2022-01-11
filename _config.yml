@@ -4,7 +4,7 @@ tagline:             Southeastern Baptist Theological Seminary
 description:         '<img src="/public/cgcs-logo-blue.png" class="center">'
 url:                 https://missionsweek.tk
 baseurl:             ''
-paginate:            5
+paginate:            false
 permalink:           pretty
 excerpt_separator:   <!--more-->
 
