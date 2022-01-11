@@ -1,8 +1,8 @@
 # Setup
-title:               Sending Pathways
-tagline:             From your church to the ends of the earth.
+title:               Global Missions Week
+tagline:             Southeastern Baptist Theological Seminary
 description:         '<img src="/public/pathways2.png" class="center">'
-url:                 https://keelancook.com/pathways-test1
+url:                 https://missionsweek.tk
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,8 +10,8 @@ excerpt_separator:   <!--more-->
 
 # About/contact
 author:
-  name:              Keelan Cook
-  url:               https://twitter.com/keelancook
+  name:              Center for Great Commission Studies
+  url:               https://twitter.com/thecgcs
   email:             kcook@sebts.edu
 
 # Gems
