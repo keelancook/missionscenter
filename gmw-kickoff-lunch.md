@@ -1,6 +1,6 @@
 ---
-title: Pathways » Plant
-author: Keelan Cook
+title: Kickoff Lunch
+author: Center for Great Commission Studies
 type: page
 created: 2021-02-06
 

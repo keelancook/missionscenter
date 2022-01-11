@@ -1,6 +1,6 @@
 ---
-title: Pathways » Replant
-author: Keelan Cook
+title: Worship and Prayer Night
+author: Center for Great Commission Studies
 type: page
 created: 2021-02-06
 
