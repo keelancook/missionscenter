@@ -11,7 +11,7 @@ Pathways » IMB is a cooperative equipping cohort facilitated by churches in the
 ## Schedule of Events
 
 ### Tuesday
-* [GMW Chapel 1: J.D. Greear](/docs/LINK TO CHAPEL LIVESTREAM/)
+* [GMW Chapel 1: J.D. Greear](https://www.sebts.edu/news-and-events/chapel/default.aspx)
 * [GMW Kick-off Lunch](/gmw-kickoff-lunch/)
 * [Global Missions Townhall: A Missionary Panel](/dmissions-townhall/)
 
@@ -20,8 +20,8 @@ Pathways » IMB is a cooperative equipping cohort facilitated by churches in the
 * [For the Nations: A Night of Worship and Prayer](/worship-night)
 
 ### Thursday
-* [GMW Chapel 2: Jason Allen](/LINK TO CHAPEL LIVESTREAM/)
+* [GMW Chapel 2: Jason Allen](https://www.sebts.edu/news-and-events/chapel/default.aspx)
 * [Coffee with a Missionary](/coffee-missionary/)
 
 ### Friday
-* [Missions in North Korea Seminar](LINK TO ADVERT)
+* [Missions in North Korea Seminar](https://www.eventbrite.com/e/nk-missions-seminar-tickets-211108088977)
