@@ -9,4 +9,8 @@ created: 2021-02-06
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
 
-We are currently developing web resources for this event. Feel free to check back on this page at a later date. 
+Join us in the Missions Center immediately following chapel for a free lunch to kick off Global Missions Week. You will have a chance to meet the missionaries here with us this week, grab a free lunch, and even spend some time with J.D. Greear and leadership from the Summit Church.
+
+**Time:** After Chapel
+**Location:** Jacumin-Simpson Missions Building
+*Free Lunch Provided*
