@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer Station 4
+title: Prayer for Security
 author: Center for Great Commission Studies
 created: 2022-1-13
 

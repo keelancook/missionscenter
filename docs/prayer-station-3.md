@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer Station 3
+title: Prayer for Ways of Escape
 author: Center for Great Commission Studies
 created: 2022-1-13
 

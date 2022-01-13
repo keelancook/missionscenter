@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer Station 2
+title: Pray for the Fulani
 author: Center for Great Commission Studies
 created: 2022-1-13
 

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer Station 1
+title: Prayer for the Basotho
 author: Center for Great Commission Studies
 created: 2022-1-13
 
