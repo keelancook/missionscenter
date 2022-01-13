@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer for Security
+title: Pray for Security
 author: Center for Great Commission Studies
 created: 2022-1-13
 

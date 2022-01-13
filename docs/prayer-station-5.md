@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer for Laborers among the Fulanke
+title: Pray for Laborers among the Fulanke
 author: Center for Great Commission Studies
 created: 2022-1-13
 

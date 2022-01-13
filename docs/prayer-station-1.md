@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer for the Basotho
+title: Pray for the Basotho
 author: Center for Great Commission Studies
 created: 2022-1-13
 

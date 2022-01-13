@@ -14,7 +14,7 @@ created: 2022-01-12
 * [Global Missions Townhall: A Missionary Panel](/missions-townhall/)
 
 ### Wednesday
-* [Campus-wide Prayer Walk](/prayer-walk/)
+* [Campus-wide Prayer Walk](/gmw-prayer-walk/)
 * [For the Nations: A Night of Worship and Prayer](/worship-night)
 
 ### Thursday

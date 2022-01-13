@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Prayer for Ways of Escape
+title: Pray for Ways of Escape
 author: Center for Great Commission Studies
 created: 2022-1-13
 
