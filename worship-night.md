@@ -17,4 +17,6 @@ Distance students can also participate by joining us virtually at the link below
 
 **Location:** Eitel Auditorium
 
-**[Online Registration Link](https://gmwnightofworship.eventbrite.com)** for distance students.
+**[Facebook Live Link](https://facebook.com/events/s/for-the-nations-a-night-of-wor/479204946895388/
+)** for distance students.
+
