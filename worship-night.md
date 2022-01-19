@@ -6,7 +6,7 @@ created: 2021-02-06
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+![Worship Night](public/worship-night.png)
 
 
 Come gather with other Southeastern students, faculty, and staff for an evening dedicated to corporate worship and prayer. Set in Eitel auditorium, the cross-cultural worship experience will provide a close, intimate environment to gather with others for the glory of God and prayer for the nations.

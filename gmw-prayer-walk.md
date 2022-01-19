@@ -5,7 +5,7 @@ author: Center for Great Commission Studies
 created: 2022-1-13
 
 ---
-![Coming Soon](https://i.imgur.com/pxK8WAn.png)
+![Prayer Walk](public/prayerwalk.png)
 
 All day Wednesday, Global Missions Week focuses on prayer for the nations. Prayer stations will be located across campus that highlight prayer needs for missions in Sub-Saharan Africa. All students are encouraged to participate in this guided prayer walk by locating these stations and using their smart phone to interact with the prayer points provided. Each station will represent a different prayer need and guide students to the next station.
 
