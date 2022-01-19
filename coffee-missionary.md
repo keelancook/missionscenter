@@ -17,4 +17,4 @@ Have you ever had coffee with a missionary? Today is your day, and they'll even 
 ### Distance Learning Students:
 **Time:** (Talk to distance learning)
 
-**Locations:** Zoom Room (Need link to promote)
+**[Register here](https://gmwcoffeewithmissionary.eventbrite.com)** for a virtual coffee meeting.
