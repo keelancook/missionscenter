@@ -5,7 +5,7 @@ type: post
 created: 2022-01-12
 
 ---
-![GMW Banner](https:/missionsweek.tk/public/gmw_general.png)
+![GMW Banner](../public/gmw-schedule.png)
 
 *This site will be our online home for all things Global Missions Week. We need to place a compelling one-paragraph description of Global Missions Week here. I also want to add any marketing graphic that communications may produce for the event here.*
 ## Schedule of Events
