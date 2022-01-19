@@ -3,7 +3,7 @@ layout: page
 title: About Global Missions Week
 
 ---
-1[GMW 2022](public/gmw_general.png)
+![GMW 2022](public/gmw_general.png)
 
 Global Missions Week is a long tradition at Southeastern Baptist Theological Seminary. Southeastern truly is the Great Commission seminary, and each year, we spend a week dedicated to celebrating God's work among the nations and challenging all of our students to answer the question: Where am I going?
 
