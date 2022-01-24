@@ -14,7 +14,7 @@ All day Wednesday, Global Missions Week focuses on prayer for the nations. Praye
 **Location:** Various stations around campus
 
 ## Prayer Walk Locations
-* [Binkly Chapel](/docs/prayer-station-1/)
+* [Binkley Chapel](/docs/prayer-station-1/)
 * [The Missions Center](/docs/prayer-station-2/)
 * [Appleby](/docs/prayer-station-3/)
 * [Patterson Hall](/docs/prayer-station-4)
