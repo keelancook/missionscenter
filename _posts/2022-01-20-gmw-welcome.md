@@ -5,7 +5,7 @@ type: post
 created: 2022-01-20
 
 ---
-![GMW Banner](../public/gmw_general.png)
+![GMW Banner](../public/gmw-schedule.png)
 
 For one week every year, we raise up the task of missions as a focus point for students, faculty, and staff. Global Missions Week gives Southeastern a chance to celebrate that which we hold at the very center of our purpose, equipping students to fulfill the Great Commission.
 
